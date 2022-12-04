@@ -61,7 +61,7 @@
 /*apply style to hero image*/
 .hero{
     height: 400px;
-    background-image: url("../assets/Images/code.jpg");
+    background-image: url("../portfolio-challenge/assets/Images/code.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
